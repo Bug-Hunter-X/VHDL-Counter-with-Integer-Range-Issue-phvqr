@@ -1,0 +1,2 @@
+# VHDL Counter Bug
+This repository demonstrates an uncommon bug in VHDL related to integer range handling within a counter. The `buggy_counter.vhdl` file contains the buggy code, while `buggy_counter_solution.vhdl` provides the corrected version.  The bug is subtle and may not be immediately apparent, highlighting the importance of thorough testing and careful attention to VHDL's integer type behavior.
